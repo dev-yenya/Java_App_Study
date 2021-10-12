@@ -3,4 +3,4 @@
 - #2 EditText & Button
 - #3 Intent
 - #4 ImageView & Toast
-- #5 패키지 구조 & 
+- #5 패키지 구조 & 역할
